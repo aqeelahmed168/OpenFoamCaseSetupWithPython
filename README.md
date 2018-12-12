@@ -4,4 +4,4 @@ Uses coolProp python package to get fluid properties.
 # blockMeshGrading.ipynb
 A notebook to compute blockMesh grading
 # compoundGradedMesh
-OpenFOAM case to visulize grid
+OpenFOAM case to visualize grid
