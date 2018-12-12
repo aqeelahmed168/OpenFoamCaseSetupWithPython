@@ -17,7 +17,6 @@ constant/polyMesh/*
 constant/cellToRegion
 *.OpenFOAM
 *.o
-*.png
 *.mp4
 
 
